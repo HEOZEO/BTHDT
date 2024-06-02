@@ -17,7 +17,7 @@ public class PhuThuy extends NhanVat {
     public void setChoi(boolean choi) {
         this.choi = choi;
     }
-
+ 
     public boolean isGay() {
         return gay;
     }

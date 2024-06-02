@@ -6,7 +6,7 @@ public class KyBinh extends NhanVat {
     private boolean cung;
     private boolean ngua;
 
-    public KyBinh(boolean guom, boolean giao, boolean cung, boolean ngua, String ten, String id, String gioitinh, String hanhdong, int sucmanh) {
+     public KyBinh(boolean guom, boolean giao, boolean cung, boolean ngua, String ten, String id, String gioitinh, String hanhdong, int sucmanh) {
         super(ten, id, gioitinh, hanhdong, sucmanh);
         this.guom = guom;
         this.giao = giao;

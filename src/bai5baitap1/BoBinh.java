@@ -4,8 +4,7 @@ public class BoBinh extends NhanVat {
     private int giao;
     private boolean khien;
     private boolean aogiap;
-
-    public BoBinh(int giao, boolean khien, boolean aogiap, String ten, String id, String gioitinh, String hanhdong, int sucmanh) {
+   public BoBinh(int giao, boolean khien, boolean aogiap, String ten, String id, String gioitinh, String hanhdong, int sucmanh) {
         super(ten, id, gioitinh, hanhdong, sucmanh);
         this.giao = giao;
         this.khien = khien;

@@ -14,7 +14,7 @@ public class KiemKhach extends NhanVat {
         return so_kiem;
     }
 
-    public void setSo_kiem(int so_kiem) {
+     public void setSo_kiem(int so_kiem) {
         this.so_kiem = so_kiem;
     }
 

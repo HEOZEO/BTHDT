@@ -7,7 +7,7 @@ public class NhanVat {
     private String hanhdong;
     private int sucmanh;
 
-    public NhanVat(String ten, String id, String gioitinh, String hanhdong, int sucmanh) {
+     public NhanVat(String ten, String id, String gioitinh, String hanhdong, int sucmanh) {
         this.ten = ten;
         this.id = id;
         this.gioitinh = gioitinh;
